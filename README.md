@@ -1,6 +1,6 @@
 This is a capstone project for the IBM Developer Skills Lab certification for Data Science.
 
-Introduction 
+Introduction: 
 Until recent times, most of the launch vehicle used to lift payloads out of Earth was simply lost—they were single use items. Reusability, one of the major contributions to space travel from SpaceX is the recovery of the first-stage booster portion of the launch vehicle, one of the key factors affecting the cost of a launch.
 For example, on their website, SpaceX advertises that Falcon 9 rocket launches cost 62 million dollars. Other companies charge around 165 million dollars for a launch. This difference in cost is largely due to the recovery of the first-stage booster. 
 The manufacture of a Falcon 9 booster represents 60% of the launch price.
